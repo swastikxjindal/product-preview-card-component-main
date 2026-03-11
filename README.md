@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://swastikxjindal.github.io/product-preview-card-component-main/
 
 ## My process
 
@@ -56,7 +56,7 @@ Used ChatGpt for some changes and for different fonts and colors
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - https://swastikxjindal.github.io/product-preview-card-component-main/
 
 
 
